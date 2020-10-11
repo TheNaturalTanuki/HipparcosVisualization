@@ -7,3 +7,5 @@ At the origin of this project: I think it would be valuable to have a way of vis
 - Acknowledgement: Floor van Leeuwen, Institute of Astronomy, Cambridge University Cambridge, UK
 - Lists 117955 stars (includes multiple stars)
 - Files downloaded from FTP at: https://cdsarc.unistra.fr/viz-bin/cat/I/311
+
+![AnglesComputations](https://github.com/franckyin/HipparcosVisualization/blob/main/1.HipparcosData/PlxRaDeToDXYZ.png)
