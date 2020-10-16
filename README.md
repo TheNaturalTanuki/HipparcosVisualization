@@ -8,4 +8,8 @@ At the origin of this project: I think it would be valuable to have a way of vis
 - Lists 117955 stars (includes multiple stars)
 - Files downloaded from FTP at: https://cdsarc.unistra.fr/viz-bin/cat/I/311
 
+Youtube preview:
+
+[![Alt text](https://img.youtube.com/vi/U95Rn8CZ970/0.jpg)](https://www.youtube.com/watch?v=U95Rn8CZ970)
+
 ![AnglesComputations](https://github.com/franckyin/HipparcosVisualization/blob/main/1.HipparcosData/PlxRaDeToDXYZ.png)
