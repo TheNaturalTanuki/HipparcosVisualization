@@ -1,4 +1,4 @@
-# HipparcosVisualization
+# DOTS ECS Hipparcos Visualization
 Unity DOTS ECS 3D star visualization, as described by the Hipparcos star catalogue.
 
 At the origin of this project: I think it would be valuable to have a way of visiting our star neighborhood in a 3D environment. And Unity DOTS ECS is around the corner. It's a match made in the stars! ;D
